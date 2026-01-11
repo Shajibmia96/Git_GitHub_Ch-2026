@@ -6,6 +6,10 @@ console.log("Hello 2026");
  }
  else{
      console.log("Child person....");
+     console.log("Child person....");
+     console.log("Child person....");
+     console.log("Child person....");
+
      
  }
 
