@@ -1,10 +1,11 @@
 console.log("Hello 2026");
- const age = 21;
+ const age = 17;
 
- if(age ==21){
-     console.log("Hello")  
+ if(age >=18){
+     console.log("Adult person...."); 
  }
  else{
-     console.log("Ok..");
+     console.log("Child person....");
      
  }
+
