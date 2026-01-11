@@ -9,3 +9,7 @@ console.log("Hello 2026");
      
  }
 
+ let nameLeg = "Shajib Mia";
+
+ console.log(nameLeg.length);
+ 
